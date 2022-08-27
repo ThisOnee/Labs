@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Professional\\source\\repos\\LabOne\\LabOne\\LabOne.csproj": {}
+    "C:\\Labs\\LabOne\\LabOne\\LabOne.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Professional\\source\\repos\\LabOne\\LabOne\\LabOne.csproj": {
+    "C:\\Labs\\LabOne\\LabOne\\LabOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Professional\\source\\repos\\LabOne\\LabOne\\LabOne.csproj",
+        "projectUniqueName": "C:\\Labs\\LabOne\\LabOne\\LabOne.csproj",
         "projectName": "LabOne",
-        "projectPath": "C:\\Users\\Professional\\source\\repos\\LabOne\\LabOne\\LabOne.csproj",
+        "projectPath": "C:\\Labs\\LabOne\\LabOne\\LabOne.csproj",
         "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Professional\\source\\repos\\LabOne\\LabOne\\obj\\",
+        "outputPath": "C:\\Labs\\LabOne\\LabOne\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Professional\\AppData\\Roaming\\NuGet\\NuGet.Config",
